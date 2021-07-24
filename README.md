@@ -1,3 +1,3 @@
 # Global-Country-Average-Temprature
-PowerBI Report 
-Knime 
+Knime for data Preparation 
+PowerBI Report
